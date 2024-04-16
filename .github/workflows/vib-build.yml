@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  CUSTOM_IMAGE_NAME: custom
+  CUSTOM_IMAGE_NAME: vanillia-os-surface-pro
 
 jobs:
   check_update:
