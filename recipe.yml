@@ -31,6 +31,13 @@ modules:
     - libwacom-surface
     - iptsd
 
+- name: add-qol-packages
+  type: apt
+  source:
+    packages:
+    - gnome-tweaks
+    - vim
+
 # Put your custom actions before this comment
 
 - name: set-image-name-abroot
