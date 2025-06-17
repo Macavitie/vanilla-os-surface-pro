@@ -1,7 +1,7 @@
+version: 1.0
 base: ghcr.io/vanilla-os/desktop:main
 name: Custom Vanilla OS desktop for Surface Pro devices
 id: vanilla-os-surface-pro
-version: 1.0
 labels:
   maintainer: self-maintained
 args:
